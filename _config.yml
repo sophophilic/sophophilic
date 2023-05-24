@@ -4,8 +4,7 @@ plugins:
 
 title: <p align="center"> Ravi Kumar Dhiman </p>
 logo: /assets/img/logo.png
-
-description:
+description: 
   <p align="center">
   <a href="assets/files/resume.pdf">Resume</a> |
   <a href="https://www.linkedin.com/in/ravi-kumar-dhiman/">LinkedIn</a> |
@@ -17,7 +16,4 @@ description:
   Previously worked with Morgan Stanley, Boston Consulting Group (BCG), Deloitte etc.
   <br>
   </p>
-
-
-
 theme: jekyll-theme-minimal
